@@ -7,6 +7,7 @@ Project by: Nils Kauliņš (@client), Kaspars Tols (@EnterCreate), Matiass Peļu
 📫 Reach us on github! 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q12WY9S)
+
 Put SERVER so client knows to split the money!
 
 ## Server Hardware Requirements:
