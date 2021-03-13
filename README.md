@@ -30,3 +30,9 @@ We would make multiple gamemodes for the students to enjoy!
   * Everyone gets access to every single block in the game and a 64x64 plot to build whatever they want!
 * And more.
 
+## Progress 🚧
+
+- [x] Write the info about the server
+- [ ] Start building the server
+- [ ] Launch the server
+- [ ] Keep it constantly updated
