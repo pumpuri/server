@@ -11,11 +11,11 @@ Project by: Nils Kauliņš ([@client](http://github.com/client)), Kaspars Tols (
 Put SERVER so client knows to split the money!
 
 ## Server Hardware Requirements:
-4.2GHz or better CPU - Intel Pentium Gold G6600
-64GB of DDR4 RAM
-2TB of NVMe Storage with fast write and read times
-4-8TB of HDD Storage for weekly backups
-1GBit Network Connection
+* 4.2GHz or better CPU - Intel Pentium Gold G6600
+* 64GB of DDR4 RAM
+* 2TB of NVMe Storage with fast write and read times
+* 4-8TB of HDD Storage for weekly backups
+* 1GBit Network Connection
 
 # Why Does the School need the server?
 Minecraft is a great way for people to connect and relieve stress - Especially during theese tough times when school is really hard with all the online learning, a lot of pressure and much more. Minecraft can also be used as an educational tool for example - Everyone could speak only English to speed up the learning curve for newer students!
