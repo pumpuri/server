@@ -3,7 +3,7 @@
 The school Minecraft Server.
 Just general plugin stuff for config settings aswell as project info provided in the README.md
 
-Project by: Nils Kauliņš (@client), Kaspars Tols (@EnterCreate), Matiass Peļuskevičš (Does not use GitHub. Yet.).
+Project by: Nils Kauliņš ([@client](http://github.com/client)), Kaspars Tols ([@EnterCreate](http://github.com/EnterCreate)), Matiass Peļuskevičš (Does not use GitHub. Yet.).
 📫 Reach us on github! 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q12WY9S)
