@@ -6,11 +6,8 @@ Just general plugin stuff for config settings aswell as project info provided in
 Project by: Nils Kauliņš ([@client](http://github.com/client)), Kaspars Tols ([@EnterCreate](http://github.com/EnterCreate)), Matiass Peļuškēvičs  ([@Dibiman](http://github.com/Dibiman)).
 📫 Reach us on github! 
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q12WY9S)
 
-Put SERVER so client knows to split the money!
-
-## Server Hardware Requirements:
+## Server Hardware Requirements
 * 4.2GHz or better CPU - Intel Pentium Gold G6600
 * 64GB of DDR4 RAM
 * 2TB of NVMe Storage with fast write and read times
