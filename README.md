@@ -8,7 +8,7 @@ Project by: Nils Kauliņš ([@client](http://github.com/client)), Kaspars Tols (
 
 
 ## Server Hardware Requirements
-* 4.2GHz or better CPU - Intel Pentium Gold G6600
+* 4.2GHz or better CPU
 * 64GB of DDR4 RAM
 * 2TB of NVMe Storage with fast write and read times
 * 4-8TB of HDD Storage for weekly backups
